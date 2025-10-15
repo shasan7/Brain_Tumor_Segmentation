@@ -12,12 +12,12 @@ The model was trained for 100 epochs using a batch size of 8, achieving Dice Soc
 
 ## Model's Mask Predictions:
 
-![Prediction 1: ](Prediction 1.png)
-![Prediction 2: ](Prediction 2.png)
-![Prediction 3: ](Prediction 3.png)
-![Prediction 4: ](Prediction 4.png)
-![Prediction 5: ](Prediction 5.png)
-![Prediction 6: ](Prediction 6.png)
+![Prediction 1: ](Prediction_1.png)
+![Prediction 2: ](Prediction_2.png)
+![Prediction 3: ](Prediction_3.png)
+![Prediction 4: ](Prediction_4.png)
+![Prediction 5: ](Prediction_5.png)
+![Prediction 6: ](Prediction_6.png)
 
 ## Training & Validation Dice, IoU and Loss:
 
